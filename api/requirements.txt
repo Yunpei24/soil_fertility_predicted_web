@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+gunicorn
+numpy
+scikit-learn == 1.2.2
